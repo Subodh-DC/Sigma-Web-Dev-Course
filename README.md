@@ -1,2 +1,2 @@
 # Sigma-Web-Dev-Course
-i start to learn web development
+Source Code for Sigma Web Development Course
